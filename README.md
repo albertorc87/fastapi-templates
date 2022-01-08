@@ -1,6 +1,6 @@
 # Cómo retornar HTML desde FastAPI
 
-Si quieres aprender como realizar [https://cosasdedevs.com/posts/retornar-html-fastapi/](https://cosasdedevs.com/posts/retornar-html-fastapi/)
+Si quieres aprender como lo he hecho [https://cosasdedevs.com/posts/retornar-html-fastapi/](https://cosasdedevs.com/posts/retornar-html-fastapi/)
 
 ## Instalación del proyecto en local
 
